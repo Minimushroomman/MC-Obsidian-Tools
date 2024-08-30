@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "obsidianmushroom:blocks/ceramic_kiln_side",
+        "front": "obsidianmushroom:blocks/ceramic_kiln_front",
+        "side": "obsidianmushroom:blocks/ceramic_kiln_side"
+    }
+}
